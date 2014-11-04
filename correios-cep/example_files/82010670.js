@@ -1,0 +1,1 @@
+correiocontrolcep({"bairro": "Santo In\u00e1cio", "logradouro": "Rua Anna Gbur Barcik", "cep": "82010670", "uf": "PR", "localidade": "Curitiba"});
